@@ -1,3 +1,6 @@
+// Author : Neeraj Mishra
+// nmcnemis@gmail.com
+
 // ticTacToe.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
